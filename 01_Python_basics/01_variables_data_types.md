@@ -1,3 +1,3 @@
 Variables
 ```python
-x = 10
+variavle_name = value
