@@ -74,11 +74,9 @@ myvar2 = "John"
 ```
 <b>Illegal variable names:</b>
 ```python
-<span style="color:red;">
 2myvar = "John"
 my-var = "John"
 my var = "John"
-</span>
 
 ``` 
 
