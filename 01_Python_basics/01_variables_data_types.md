@@ -72,5 +72,10 @@ myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
 ```
-
+<b>Illegal variable names:</b>
+```python color= #ff0000 
+2myvar = "John"
+my-var = "John"
+my var = "John"
+``` 
 
