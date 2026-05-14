@@ -9,7 +9,7 @@ y = "hasib"
 print(x)
 print(y)
 ```
-output:
+out[]:
 ```text
 5
 Hasib
@@ -20,7 +20,7 @@ x = 4       # x is of type int
 x = "Hasib" # x is now of type str
 print(x)
 ```
-output: 
+out[]: 
 ```
 Hasib
 ```
@@ -30,7 +30,7 @@ x = str(3)    # string
 y = int(3)    # integer
 z = float(3)  # floating
 ```
-output:
+out[]:
 ```
 '3'
 3
@@ -44,7 +44,7 @@ y = "John"
 print(type(x))
 print(type(y))
 ```
-output:
+out[]:
 ```
 <class 'int'>
 <class 'str'>
@@ -57,26 +57,70 @@ x = 'John'
 ```
 ### Legal variable names
 
--A variable name must start with a letter or the underscore character  
--A variable name cannot start with a number  
--A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )  
--Variable names are case-sensitive (age, Age and AGE are three different variables)  
--A variable name cannot be any of the Python keywords.
+* A variable name must start with a letter or the underscore character  
+* A variable name cannot start with a number  
+* A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )  
+* Variable names are case-sensitive (age, Age and AGE are three different variables)  
+* A variable name cannot be any of the Python keywords.
 
 Example
-```text
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+```python
+myvar = "Hasib"
+my_var = "Hasib"
+_my_var = "Hasib"
+myVar = "Hasib"
+MYVAR = "Hasib"
+myvar2 = "Hasib"
+my_variable_name = "Hasib"
 ```
 ## Illegal variable names
 ```python
-2myvar = "John"
-my-var = "John"
-my var = "John"
+2myvar = "Hasib"
+my-var = "Hasib"
+my var = "Hasib"
+```
+## Assign Multiple Values  
+Many Values to Multiple Variables
+```python
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+```
+out[]:
+```
+Orange
+Banana
+Cherry
+```
+One Value to Multiple Variables
+```python
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
+```
+out[]:
+```
+Orange
+Orange
+Orange
+```
+## Unpack a list
+```python
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+```
+out[]:
+```
+apple
+banana
+cherry
+```
 
-``` 
+
+
 
