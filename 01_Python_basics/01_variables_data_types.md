@@ -121,7 +121,7 @@ banana
 cherry
 ```
 ## Output Variables  
-### The print() function is often used to output variables.
+The print() function is often used to output variables.
 ```python
 x = "Python is awesome"
 print(x)
@@ -130,7 +130,7 @@ out:
 ```
 Python is awesome
 ```
-### In the print() function, output multiple variables, separated by a comma:
+In the print() function, output multiple variables, separated by a comma:
 ```python
 x = "Python"
 y = "is"
@@ -152,7 +152,7 @@ out:
 ```
 Python is awesome
 ```
-### For numbers, the + character works as a mathematical operator:
+For numbers, the + character works as a mathematical operator:
 ```python
 x = 5
 y = 10
@@ -168,7 +168,7 @@ out:
 ```
 15
 ```
-### when try to combine a **string** and a **number** with the **+** operator, Python will give you an error:
+when try to combine a **string** and a **number** with the **+** operator, Python will give you an error:
  ```python
 x = 5
 y = "Hasib"
@@ -186,7 +186,7 @@ Example:
 x = "awesome"
 
 def function_name():   #define a function 
-  print("Python is " + x) #code 
+  print("Python is " + x) #code block 
 
 function_name() #call the function
 ```
@@ -202,7 +202,10 @@ myfunc()
 
 print("Python is " + x)
 ```
-
+out:
+```
+Python is fantastic
+```
 
 
 
