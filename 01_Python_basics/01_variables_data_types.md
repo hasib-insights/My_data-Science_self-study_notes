@@ -9,6 +9,7 @@ y = "hasib"
 print(x)
 print(y)
 ```
+output:
 ```text
 5
 Hasib
@@ -63,7 +64,7 @@ x = 'John'
 -A variable name cannot be any of the Python keywords.
 
 Example
-```python
+```text
 myvar = "John"
 my_var = "John"
 _my_var = "John"
