@@ -9,11 +9,9 @@ y = "hasib"
 print(x)
 print(y)
 ```
-output:
-```
 5
 Hasib
-```
+
 ## print this variable
 ```python
 x = 4       # x is of type int
