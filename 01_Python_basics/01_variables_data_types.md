@@ -9,7 +9,7 @@ y = "hasib"
 print(x)
 print(y)
 ```
-out[]:
+out:
 ```text
 5
 Hasib
@@ -20,7 +20,7 @@ x = 4       # x is of type int
 x = "Hasib" # x is now of type str
 print(x)
 ```
-out[]: 
+out: 
 ```
 Hasib
 ```
@@ -44,7 +44,7 @@ y = "John"
 print(type(x))
 print(type(y))
 ```
-out[]:
+out:
 ```
 <class 'int'>
 <class 'str'>
@@ -87,7 +87,7 @@ print(x)
 print(y)
 print(z)
 ```
-out[]:
+out:
 ```
 Orange
 Banana
@@ -100,7 +100,7 @@ print(x)
 print(y)
 print(z)
 ```
-out[]:
+out:
 ```
 Orange
 Orange
@@ -114,12 +114,36 @@ print(x)
 print(y)
 print(z)
 ```
-out[]:
+out:
 ```
 apple
 banana
 cherry
 ```
+## Output Variables  
+The print() function is often used to output variables.
+```python
+x = "Python is awesome"
+print(x)
+```
+out:
+```
+Python is awesome
+```
+In the print() function, you output multiple variables, separated by a comma:
+```python
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
+```
+out:
+```
+Python is awesome
+```
+
+
+
 
 
 
