@@ -13,7 +13,7 @@ Colons can be used to align columns.
 | Boolean Type   | bool                          |
 | Binary Types   | bytes, bytearray, memoryview  |
 | None Type      | NoneType                      |  
-
+### Setting the Data Type
 | Data Type   | Example                                      |
 | ----------- | --------------------------------             |
 | str         | x = "Hello World"                            |
@@ -27,9 +27,6 @@ Colons can be used to align columns.
 | set         | x = {"apple", "banana", "cherry"}            |
 | frozenset   | x = frozenset({"apple", "banana", "cherry"}) |
 | bool        | x = True , x = False                         | 
-| bytes       | x = b"Hello"                                 |
-| bytearray   | x = bytearray(5)                             |
-| memoryview  | x = memoryview(bytes(5))                     |
 | nonetype    | x = None                                     |
 
 
