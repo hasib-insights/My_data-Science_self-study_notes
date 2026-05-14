@@ -1,7 +1,10 @@
 ### Python Numbers  
 There are three numeric types in Python:   
 ```diff
-- Hasib
+-int
+-float
+-complex
+
 ```
 
 
