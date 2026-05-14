@@ -8,29 +8,6 @@
 
 > 📚 **Self-learning journey** - Data Science fundamentals from scratch
 
----
-
-## 📂 Repository Structure
-My_data-Science_self-study_notes/
-│
-├── 📁 01_Python_basics/
-│ ├── 📄 01_variables_.md
-│ └── 📄 02_data_types.md
-│
-├── 📁 02_Numpy/
-│ └── (Coming soon...)
-│
-├── 📁 03_Pandas/
-│ └── (Coming soon...)
-│
-├── 📁 04_Matplotlib/
-│ └── (Coming soon...)
-│
-└── 📁 05_Scikit_learn/
-└── (Coming soon...)  
-
- 
----
 
 ## 🚀 Modules Overview
 
@@ -61,4 +38,10 @@ My_data-Science_self-study_notes/
 
 <details>
 <summary><b>📖 Preview: Variables</b> (Click to expand)</summary>
+
+01_Python_basics    [████████████████████] 100% ✅
+02_Numpy           [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
+03_Pandas          [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
+04_Matplotlib      [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
+05_Scikit_learn    [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
 
