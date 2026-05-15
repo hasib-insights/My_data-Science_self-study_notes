@@ -29,6 +29,10 @@ Hasib
 x = str(3)    # string 
 y = int(3)    # integer
 z = float(3)  # floating
+
+print(x)
+print(y)
+print(z)
 ```
 out[]:
 ```
@@ -154,12 +158,6 @@ Python is awesome
 ```
 For numbers, the + character works as a mathematical operator:
 ```python
-x = 5
-y = 10
-print(x + y)
-```
-out:
-```
 x = 5
 y = 10
 print(x + y)
