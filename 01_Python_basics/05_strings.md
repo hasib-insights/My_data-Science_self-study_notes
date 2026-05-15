@@ -34,7 +34,7 @@ sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.
 ```
 ## Modify Strings
-#### Upper Case
+### Upper Case
 The **upper()** method returns the string in upper case:
 ```python
 a = "Hello, World!"
