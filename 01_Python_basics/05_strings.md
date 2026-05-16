@@ -64,6 +64,9 @@ out:
 ```
 Jello, World!
 ```
+* old → the text you want to change  
+* new → the text you want to put instead  
+* count (optional → how many times to replace (if not given, it replaces all)
 ```python
 a = "Hello, World!"
 print(a.replace("0", "d", 2)) #(Old, new, count)
