@@ -9,7 +9,8 @@ output:
 ```
 The price is 59 dollars
 ```
-Display the price with 2 decimals:
+Display the price with 2 decimals:  
+A modifier is included by adding a colon : followed by a legal formatting type, like .2f which means fixed point number with 2 decimals:
 ```python
 price = 59
 txt = f"The price is {price:.2f} dollars"
