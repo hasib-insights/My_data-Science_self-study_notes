@@ -14,19 +14,19 @@ Colons can be used to align columns.
 | Boolean Type   | bool                          |
 | None Type      | NoneType                      |  
 ### Setting the Data Type
-| Data Type   | Example                                      |
-| ----------- | --------------------------------             |
-| str         | x = "Hello World"                            |
-| int         | x = 20                                       |
-| float       | x = 20.5                                     |
-| complex     | x = 1j                                       |
-| list        | x = ['apple', 'banana', 'cherry']            |
-| tuple       | x = ("apple", "banana", "cherry")            |
-| range       | x = range(6) # (0 - 5)                       |
-| dict        | x = {"name" : "John", "age" : 36}            |
-| set         | x = {"apple", "banana", "cherry"}            |
-| frozenset   | x = frozenset({"apple", "banana", "cherry"}) |
-| bool        | x = True , x = False                         | 
-| nonetype    | x = None                                     |
+| Data Type   | Example                                        |
+| ----------- | :--------------------------------:             |
+| str         | x = `"Hello World"`                            |
+| int         | x = `20`                                       |
+| float       | x = `20.5`                                     |
+| complex     | x = `1j`                                       |
+| list        | x = `['apple', 'banana', 'cherry']`            |
+| tuple       | x = `("apple", "banana", "cherry")`            |
+| range       | x = `range(6) # (0 - 5)`                       |
+| dict        | x = `{"name" : "John", "age" : 36}`            |
+| set         | x = `{"apple", "banana", "cherry"}`            |
+| frozenset   | x = `frozenset({"apple", "banana", "cherry"})` |
+| bool        | x = `True , x = False`                         | 
+| nonetype    | x = `None`                                     |
 
 
