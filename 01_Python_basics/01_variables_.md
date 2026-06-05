@@ -166,7 +166,7 @@ out:
 ```
 15
 ```
-when try to combine a `**string**` and a `**number**` with the **+** operator, Python will give you an error:
+when try to combine a **string** and a **number** with the `+` operator, Python will give you an error:
  ```python
 x = 5
 y = "Hasib"
