@@ -15,7 +15,7 @@ Colons can be used to align columns.
 | None Type      | NoneType                      |  
 ### Setting the Data Type
 | Data Type   | Example                                        |
-| ----------- | :--------------------------------:             |
+| ----------- | --------------------------------               |
 | str         | x = `"Hello World"`                            |
 | int         | x = `20`                                       |
 | float       | x = `20.5`                                     |
