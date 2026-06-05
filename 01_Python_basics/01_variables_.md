@@ -41,7 +41,7 @@ out[]:
 3.0
 ```
 ## Get the Type   
-get the data type of a variable with the type() function.
+get the data type of a variable with the `type()` function.
 ```python
 x = 5
 y = "John"
@@ -125,7 +125,7 @@ banana
 cherry
 ```
 ## Output Variables  
-The print() function is often used to output variables.
+The `print()` function is often used to output variables.
 ```python
 x = "Python is awesome"
 print(x)
@@ -134,7 +134,7 @@ out:
 ```
 Python is awesome
 ```
-In the print() function, output multiple variables, separated by a comma:
+In the `print()` function, output multiple variables, separated by a comma(`,`):
 ```python
 x = "Python"
 y = "is"
@@ -145,7 +145,7 @@ out:
 ```
 Python is awesome
 ```
-also use the + operator to output multiple variables:
+also use the `+` operator to output multiple variables:
 ```python
 x = "Python "
 y = "is "
@@ -156,7 +156,7 @@ out:
 ```
 Python is awesome
 ```
-For numbers, the + character works as a mathematical operator:
+For numbers, the `+` character works as a mathematical operator:
 ```python
 x = 5
 y = 10
@@ -166,7 +166,7 @@ out:
 ```
 15
 ```
-when try to combine a **string** and a **number** with the **+** operator, Python will give you an error:
+when try to combine a `**string**` and a `**number**` with the **+** operator, Python will give you an error:
  ```python
 x = 5
 y = "Hasib"
@@ -190,7 +190,7 @@ function_name() #call the function
 ```
 ### The global Keyword
 Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
-To create a global variable inside a function, you can use the global keyword.
+To create a global variable inside a function, you can use the `global` keyword.
 ```python
 def myfunc():
   global x
